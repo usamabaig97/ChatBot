@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hotelbookingagent-b9lt",
+  "private_key_id": "266bfc113e0ecface9284e0691d32cc1a12d3b0e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1k6kHYMnfcGw2\nFPMsl6D6N8289ifQ6u7F+D17dzq8WWW3gRW2WCmKPP2HXkaeWSgLt7dt30PjijWW\ngon0GD9apsr0KPy9UfQXzOPFcrPAE3m5TJB/M3DoYXMei5uWjaBBBSOVZsiHv+lZ\ndIEQsXnkFnkdmqvdMUe4JFpsujiS+B98wQvQTB/2Nj0dir90c1a52VFffkIdSBME\nF/EuvLOuKme4BlaKLU6ynleeUoTZfzjOto5ZTF6ZecKq0ixWGOtoYrX0TDB8C8xw\nc77glEzuZ2VxMGDd3UgugvAOSXkDBPdhuqJXVTF+1rCt7ItpEOveIfvZ7oP0Hwsc\nn5U9CMH9AgMBAAECggEAAIQkQAJQWJmuBYQdV2mVRQqbEe1PGmO+XKLg4hZ/YGL5\nOnfYgHu6ZkfX0+LhwFg1tMt87wgN3ihrkE0N3bsxIyL5Tavitn3YAv2keuWvqUt7\n/VnVyTZXQIXdSRvcUyzTD40lmvGYRiz2hFSq+9DNycOe7JPQn98LTFgvOREukUSb\nkpUQYF4wqJK1yLu4/0lWM5HioK3ZGFedIDtbiVlwSrEQuB0BGG6BCV0X45cdcldQ\nCVRd3+cEwXDswKBNJy6Dewd7qFkkgnsjljk/OophwB+Hl9qCVMQ3EG6Wp05L2mET\n+YAfKXbIgnIJRcYOfLWEAhWaGLH1CLFJpgfr+MHDeQKBgQDvMVwWrl21iagvk9eZ\n5YKSfenOtuKI+1MGIp5KGBhDhlUF8uLBazAAQvnhzblOjPDrjpbyIZHfwBcx2OKB\nq9wyaKwA3BvOXIJ/WHGOq0qSpb56t1s6n+VXNzVdPMo9Aran67XbjOsOaHUH4hqm\nzwvM1MOpp+nQFzpwtz/NUkSylQKBgQDCVeThdFyJDkRakIXUIZXTg/6BsTrRG8rN\ngNDOO5YB0hK6RIuwKA0wsX8WyenQBzCcwIr3al95XrqVtkQYO8aiMPawcNMtxrQS\nYz05n1xWAb0KQujvNI24bSZye03HJ0t+8zIDP0mJ8bblji6+VbGJsjrXry1rZzIT\nX741I/afyQKBgBEcJso4jtt9jVpZ6QJJOJ3iA+eVjX7e+4Fk2I3US2gJI+vZA/9x\n+20JXXaZkLfdvR4chQ+s9xJaW05lhU5hTM8OTb+B/zszwuH5IaZi+mKjGI0OsKfw\n6Cbk/Bw/TPgwSYCZi9i4q9fMARMfSWjFRsLQNW7dZAxOnQ+TDC1TxTZBAoGAG/1B\nBNO8jCTY5W5RSBc6PAeTvVwoS3vEPsrhyAI+/a4i8l7y+4EZPT0jP8X+/e47Kyh0\nG2RfsdxZ5TwmHJNnbW696PWnBL3Mq6VNaSIxq1V+w56Va/ZWvwxBcFWgAyH+tp8S\nQfN4hPyiSferddBjzKA152Ccmw524OF2RLMUTzkCgYEAt3UsUbXBDH0ezlXCW4rs\n0RGxpvv3CLfRlQ9HM0naBEJxI66x0t/sNXCR1hbx7H4xq0qXyakhyD5AdXKVb5US\nNgDoKjlqxpelcShRYCYsJqZzxN9SFK+/2NWndldZzmE547KlbWsMBeSrRb/pLExf\nIMCoH+w9Z9Q52iqvWbNn3bU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow123@hotelbookingagent-b9lt.iam.gserviceaccount.com",
+  "client_id": "107579912909491706162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow123%40hotelbookingagent-b9lt.iam.gserviceaccount.com"
+}
